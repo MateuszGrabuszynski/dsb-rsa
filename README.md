@@ -1,3 +1,5 @@
+> **Note:** By no means is this code secure or validated. Treat as unchecked copy archived due to no changes planned.
+
 # RSA
 Cipher and decipher with RSA algorithm. Program written in C# for Data security basics classes.
 ## Used libraries
